@@ -1,7 +1,6 @@
 ---
 title: about
 date: 2026-10-07 02:07:34
-catalog: false
 ---
 
 # 0xHuiSec

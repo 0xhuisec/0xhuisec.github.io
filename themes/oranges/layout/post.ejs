@@ -159,7 +159,9 @@
         </div>
       <% } %>
     </div>
-    <%- partial("_partial/catalog") %>
+    <% if (page.type !== "about") { %>
+      <%- partial("_partial/catalog") %>
+    <% } %>
     <% if(theme.comments.enable) { %>
       <div class="comments-container">
         <%- partial("_partial/comments") %>
