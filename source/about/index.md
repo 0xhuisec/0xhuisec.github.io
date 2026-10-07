@@ -4,18 +4,18 @@ date: 2026-10-07 02:07:34
 type: "about"
 ---
 
-# Hi, I'm **0xhui**.  👋
+# Hi, I'm 0xhui.  👋
 
-一名正在韩国学习 IT 的学生，关注网络安全、软件安全与车联网安全。
+偶尔记录一下、一名网络安全从业者，目前在韩国留学。
 
 ## About
 
 - 🎓 Ajou University
 - 🔐 Cyber Security
+- 🌐 Web Security
+- 🏴 CTF
 - 🚗 Connected Vehicle Security
 - 💻 Java / Python / PHP
-- 🏴 CTF
-- 🌐 Web Security
 
 ## Interests
 
