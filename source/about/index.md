@@ -17,19 +17,17 @@ type: "about"
 - 🚗 Connected Vehicle Security
 - 💻 Java / Python / PHP
 
-## Interests
-
-网络安全、系统安全、软件供应链安全、车联网安全以及各种有趣的计算机技术。
-
 ## Blog
 
 这个博客主要记录：
 
+- Web安全
+- CTF题目
+- 车联网安全
+- Iot安全
+- 云安全
+- 移动安全
 - 技术学习
-- CTF
-- 项目实践
-- 网络安全
-- 编程学习
 - 日常折腾
 
 ## Contact
