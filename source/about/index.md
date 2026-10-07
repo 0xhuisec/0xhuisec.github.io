@@ -4,9 +4,7 @@ date: 2026-10-07 02:07:34
 type: "about"
 ---
 
-# >>0xHuiSec
-
-Hi, I'm **0xHuiSec**.
+# Hi, I'm **0xhui**.  👋
 
 一名正在韩国学习 IT 的学生，关注网络安全、软件安全与车联网安全。
 
