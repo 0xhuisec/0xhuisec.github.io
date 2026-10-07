@@ -338,6 +338,12 @@ a:hover {
   border-radius: 2px;
 }
 
+/* 标签前面添加 # */
+.tag-list li .tag-list-link::before {
+  content: "#";
+  margin-right: 2px;
+}
+
 /*.tag-list li .tag-list-link:hover {
   color: #fff;
 }*/
