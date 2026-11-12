@@ -6,11 +6,10 @@ type: "about"
 
 # Hi, I'm 0xhui.  👋
 
-偶尔记录一下、一名网络安全从业者，目前在韩国留学。
+偶尔记录一下、一名网络安全从业者。
 
 ## About
 
-- 🎓 Ajou University
 - 🔐 Cyber Security
 - 🌐 Web Security
 - 🏴 CTF
